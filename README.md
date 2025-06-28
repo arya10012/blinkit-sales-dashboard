@@ -12,7 +12,8 @@ This project analyzes the sales performance of Blinkit using an interactive Powe
 - `Blinkit_Dashboard.pbix` – The Power BI file
 - `Blinkit_Report.pptx` – Presentation/report with insights and recommendations
 - `Blinkit Dashboard` – Preview images from the dashboard
-- ![Dashboard Overview](Blinkit_Dashboard.png)
+
+ ![Dashboard Overview](Blinkit_Dashboard.png)
 
 ## 📈 Key Metrics
 - 🔸 **Total Sales**: $1.2M  
