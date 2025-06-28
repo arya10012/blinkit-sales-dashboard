@@ -11,7 +11,9 @@ This project analyzes the sales performance of Blinkit using an interactive Powe
 ## 📁 Files Included
 - `Blinkit_Dashboard.pbix` – The Power BI file
 - `Blinkit_Report.pptx` – Presentation/report with insights and recommendations
-- `BLinkit Dashboard` – Preview images from the dashboard 
+- `Blinkit Dashboard` – Preview images from the dashboard
+- ![Dashboard Overview](Blinkit_Dashboard.png)
+
 
 ## 🛠️ Tools & Skills Used
 - Power BI • Data Cleaning • Data Visualization • Business Insights
