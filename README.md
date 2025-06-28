@@ -14,6 +14,11 @@ This project analyzes the sales performance of Blinkit using an interactive Powe
 - `Blinkit Dashboard` – Preview images from the dashboard
 - ![Dashboard Overview](Blinkit_Dashboard.png)
 
+## 📈 Key Metrics
+- 🔸 **Total Sales**: $1.2M  
+- 🔸 **Average Sales**: $141  
+- 🔸 **Number of Items**: 8,523  
+- 🔸 **Average Rating**: 3.9 / 5
 
 ## 🛠️ Tools & Skills Used
 - Power BI • Data Cleaning • Data Visualization • Business Insights
